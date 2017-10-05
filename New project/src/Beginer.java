@@ -9,8 +9,8 @@ public class Beginer {
 		int c= a+b;
 		System.out.println("sum:"+c);
 		System.out.println("i am sorry");
-		System.out.println("i am ready");
-		System.out.println("i am becoming codefd");
+		System.out.println("i am ready to diee");
+	System.out.println("i am becoming codefd");
 	}
 
 }

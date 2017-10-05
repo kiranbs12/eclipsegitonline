@@ -10,7 +10,7 @@ public class Beginer {
 		System.out.println("sum:"+c);
 		System.out.println("i am sorry");
 		System.out.println("i am ready to diee");
-		system.out.printIn("merging")
+		System.out.println("merging");
 		System.out.println("i am becoming codefd");
 	}
 

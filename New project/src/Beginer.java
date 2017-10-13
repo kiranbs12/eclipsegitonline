@@ -12,7 +12,7 @@ public class Beginer {
 		System.out.println("i am ready to diee");
 		System.out.println("merging");
 		System.out.println("i am becoming codefd");
-		System.out.println("started but not sure where i am");
+		System.out.println("started but not sure where i am fd");
 	}
 
 }
